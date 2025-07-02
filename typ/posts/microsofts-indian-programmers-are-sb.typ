@@ -17,9 +17,7 @@
 
 == 起因
 
-在 Hacker News 上看到了这个 `Issue（C# Math.Pow(-1, 2) doesn't output correct value on Windows 11 Insider Preview, Canary channel (27881.1000) #117233`
-
-），感觉非常有意思，于是找来使用 Windows Insider 27881 的群友测试。
+在 Hacker News 上看到了这个 #link("https://github.com/dotnet/runtime/issues/117233")[`Issue（C# Math.Pow(-1, 2) doesn't output correct value on Windows 11 Insider Preview, Canary channel (27881.1000) #117233）`]，感觉非常有意思，于是找来使用 Windows Insider 27881 的群友测试。
 
 == 复现
 
