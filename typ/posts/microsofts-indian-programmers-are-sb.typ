@@ -50,7 +50,7 @@ int main(void) {
 }
 ```
 
-经过运行后得知，所有 i=-1 ，即底数为 -1 时的计算使用 Windows Insider 都会出错，于是使用 Ghidra 反编译 Windows Insider 27881 版本的 ucrtbase.dl，得到以下 C 文件：https://gist.github.com/purofle/33a81f5b6f4de15bc7f53a2214577c7c，于是进行分析。
+经过运行后得知，所有 i=-1 ，即底数为 -1 时的计算使用 Windows Insider 都会出错，于是使用 Ghidra 反编译 Windows Insider 27881 版本的 ucrtbase.dll，得到以下 C 文件：https://gist.github.com/purofle/33a81f5b6f4de15bc7f53a2214577c7c，于是进行分析。
 
 == 简单分析
 首先我们遇到的第一个大 if 在 51 行：
