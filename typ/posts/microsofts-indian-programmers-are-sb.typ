@@ -17,7 +17,7 @@
 
 == 起因
 
-在 Hacker News 上看到了这个 Issue（C# Math.Pow(-1, 2) doesn't output correct value on Windows 11 Insider Preview, Canary channel (27881.1000) #117233
+在 Hacker News 上看到了这个 `Issue（C# Math.Pow(-1, 2) doesn't output correct value on Windows 11 Insider Preview, Canary channel (27881.1000) #117233`
 
 ），感觉非常有意思，于是找来使用 Windows Insider 27881 的群友测试。
 
@@ -87,11 +87,11 @@ if (uVar7 < 0x434) { // 101 行
 ```
 你不用去开计算器，我帮你算过了。在这里，`iVar3 = 1` 时表示奇数，`iVar3 = 2` 时表示偶数。
 
-在 if (((ulonglong)_X & 0x8000000000000000) != 0) 这个代码块执行完毕后，几个变量的状态如下：
+在 `if (((ulonglong)_X & 0x8000000000000000) != 0)` 这个代码块执行完毕后，几个变量的状态如下：
 
 `_X`: 原始输入，值仍为 -1.0。
 
-`iVar3`: 值为 2，代表 _Y 是一个偶数。
+`iVar3`: 值为 2，代表 `_Y` 是一个偶数。
 
 `lVar12`: 符号标志位，由于 `iVar3 != 1`，它被正确地清零，代表最终结果应该是正数。
 
