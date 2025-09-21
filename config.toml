@@ -30,6 +30,8 @@ menu = [
   { name = "/tags", url = "/tags", weight = 3 },
   { name = "/about", url = "/about", weight = 4 },
 ]
+mathjax = true
+mathjax_dollar_inline_enable = true
 
 socials = [
   { name = "twitter", url = "https://twitter.com/purofle", icon = "twitter" },

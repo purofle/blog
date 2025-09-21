@@ -34,4 +34,13 @@ export default defineConfig({
       fileName: 'apollo.typst',
     },
   },
+  rollupOptions: {
+    output: {
+      assetFileNames: (assetInfo) => {
+        if (assetInfo.name == 'style.css')
+          return 'apollo.typst.css';
+        return assetInfo.name;
+      },
+    }
+  }
 });
