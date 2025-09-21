@@ -89,6 +89,6 @@ $ "Rnd"(A,i_r)=iota(chi(pi(rho(theta(A)))), i_r) $
    - 使 $(x,y)=(y,(2x+3y) mod 5)$
 ]
 
-= 剩下高考完再写
+= 剩下的函数可以以此类推，照着文档流程变换即可（其实是懒得写了）
 
 #bibliography("refs.bib")

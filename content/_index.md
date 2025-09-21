@@ -27,3 +27,4 @@ template = "homepage.html"
 - [Kevin8w的小窝](https://hugo.utermux.dev)
 - [麻雀小窝](https://blog.sparrowhe.top)
 - [SakiMidare's Blog](https://www.sakimidare.top)
+- [Yukina](https://blog.yukina.ink)
