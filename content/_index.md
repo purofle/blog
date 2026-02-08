@@ -20,7 +20,7 @@ template = "homepage.html"
 这个博客所有内容都使用 [Typst](https://typst.app/) 进行编写排版，使用 [Zola](https://www.getzola.org/) 进行构建，希望能给你带来不一样的体验。
 
 ## 这里是一些友情链接
-- [AtomAlpaca's Blog](https://blog.atal.moe)
+- [AtomAlpaca's Blog](https://www.atal.moe/blog)
 - [MBRjun-Blog](https://www.libmbr.com)
 - [Alan の blog](https://blog.alanlin.icu)
 - [白糖的记事本](https://blog.sugarmgp.icu)
