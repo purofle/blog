@@ -16,6 +16,7 @@ template = "homepage.html"
 - [从零学习密码学笔记-有限域与椭圆曲线](posts/learn-cryptography-from-scratch-01)
 - [从零学习密码学-Keccak研究](posts/learn-cryptography-from-scratch-02)
 - [记分析 ucrtbase.dll 中的 pow 函数计算 -1 的偶次幂时的错误](posts/microsofts-indian-programmers-are-sb)
+- [今日校园登录请求逆向分析](posts/campusmart-rev)
 
 这个博客所有内容都使用 [Typst](https://typst.app/) 进行编写排版，使用 [Zola](https://www.getzola.org/) 进行构建，希望能给你带来不一样的体验。
 
