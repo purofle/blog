@@ -30,3 +30,5 @@ template = "homepage.html"
 - [SakiMidare's Blog](https://www.sakimidare.top)
 - [Yukina](https://blog.yukina.ink)
 - [Luoingly's Space](https://luoy.ing)
+- [Steve ZMT 's Blog](https://blog.stevezmt.top)
+- [EtaoinWu](http://etaoinwu.com)
