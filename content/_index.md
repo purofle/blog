@@ -29,3 +29,4 @@ template = "homepage.html"
 - [麻雀小窝](https://blog.sparrowhe.top)
 - [SakiMidare's Blog](https://www.sakimidare.top)
 - [Yukina](https://blog.yukina.ink)
+- [Luoingly's Space](https://luoy.ing)
