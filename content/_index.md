@@ -31,4 +31,5 @@ template = "homepage.html"
 - [Yukina](https://blog.yukina.ink)
 - [Luoingly's Space](https://luoy.ing)
 - [Steve ZMT 's Blog](https://blog.stevezmt.top)
-- [EtaoinWu](http://etaoinwu.com)
+- [EtaoinWu](https://etaoinwu.com)
+- [Coldin04's Blog](https://blog.cold04.com)
